@@ -1,11 +1,11 @@
 # 🛡️ InsurePredict — Medical Insurance Cost Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://insurepredict.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://insurepredict-geuc9b5bp5kks9jhy9pbn8.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5%2B-orange?logo=scikitlearn)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> **Live demo →** https://insurepredict.streamlit.app
+> **Live demo →** https://insurepredict-geuc9b5bp5kks9jhy9pbn8.streamlit.app/
 
 An interactive web application that estimates annual US medical insurance charges from six demographic inputs — using a **Lasso regression model with engineered interaction features** trained on real-world insurance data.
 
@@ -28,7 +28,7 @@ An interactive web application that estimates annual US medical insurance charge
 
 The app is deployed at **Streamlit Community Cloud**:
 
-**➡️ https://insurepredict.streamlit.app**
+**➡️ https://insurepredict-geuc9b5bp5kks9jhy9pbn8.streamlit.app/**
 
 No installation needed — open the link, enter your details, and get your estimate instantly.
 
