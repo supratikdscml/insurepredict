@@ -1,0 +1,40 @@
+{
+  "model_name": "Lasso regression with engineered features",
+  "trained_at": "2026-10-22T07:08:53+00:00",
+  "sklearn_version": "1.9.0",
+  "n_train": 1069,
+  "n_test": 268,
+  "best_alpha": 31.622776601683793,
+  "cv_rmse": 4597.485070107481,
+  "test_metrics": {
+    "mae": 1988.8235925592955,
+    "rmse": 3331.4381443856873,
+    "r2": 0.9230103728857426
+  },
+  "interval": {
+    "method": "split-conformal",
+    "coverage": 0.9,
+    "halfwidth": 2539.185389852877,
+    "test_coverage": 0.9440298507462687
+  },
+  "training_ranges": {
+    "age": [
+      18,
+      64
+    ],
+    "bmi": [
+      15.96,
+      53.13
+    ],
+    "children": [
+      0,
+      5
+    ]
+  },
+  "reference_charges": {
+    "mean": 13279.121486655948,
+    "median": 9386.1613,
+    "smoker_mean": 32050.23183153284,
+    "nonsmoker_mean": 8440.660306508937
+  }
+}
